@@ -1,2 +1,2 @@
 # eproject
-this is my repo
+It is my first repository
